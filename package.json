@@ -1,6 +1,6 @@
 {
   "name": "local-storage-app",
-  "homepage": "http://aditya20kul.github.io/Task-Tracker",
+  "homepage": "http://aditya20kul.github.io/Local-Storage-Todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
